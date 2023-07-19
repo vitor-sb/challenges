@@ -10,4 +10,4 @@ Reordenar lista de cores pelo numero contido na palavra.
 
 
 
-#### Obs. Este challenge foi copiado da plataforma de recrutamento Turing.
+#### Obs. Este challenge foi copiado de uma plataforma de recrutamento.
